@@ -7,13 +7,14 @@
             <div class="border-t border-gray-200 py-4 col-span-2">
 
                 <div class="grid grid-cols-4 gap-4">
-                    <p class="text-gray-500 text-sm col-span-1">
+                    <p class="text-gray-800 text-sm col-span-1">
                         {{ date('Y', strtotime($work->start_work_date)) }} -
                         {{ date('Y', strtotime($work->end_work_date)) }}
                     </p>
                     <div class="col-span-3">
                         <p class="text-sm text-gray-500">{{ $work->work_type }}</p>
                         <h3 class="text-lg font-semibold">{{ $work->work_title }}</h3>
+                        <p class="text-justify text-sm pb-5 text-gray-700">{{ $work->work_description }}</p>
                         <p class="text-sm text-gray-600">{{ $work->technologies }}</p>
                     </div>
                 </div>
