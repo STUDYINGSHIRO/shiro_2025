@@ -15,26 +15,26 @@
             </div>
 
             <dl class="grid grid-cols-1 gap-x-8 gap-y-10 sm:grid-cols-2 lg:pt-2">
-                <div class="border-t border-b border-gray-200 pt-4 pb-4 col-span-2">
+                <div class="border-t border-b border-gray-200 pt-4 pb-4 col-span-2 content-center">
                     <dt class="text-white ">Email Address</dt>
-                    <dd class="mt-2 mb-5 text-sm text-gray-400">
-                        <strong>
-                            <a href="mailto:workingcjsanjuan@gmail.com">workingcjsanjuan@gmail.com</a>
-                        </strong>
+                    <dd class="mt-2 mb-5 text-lg text-gray-400">
+
+                        <a href="mailto:workingcjsanjuan@gmail.com">workingcjsanjuan@gmail.com</a>
+
                     </dd>
 
                     <dt class="text-white ">Contact Number</dt>
-                    <dd class="mt-2 mb-5 text-sm text-gray-400">
-                        <strong>
-                            (0945) - 403 - 3852
-                        </strong>
+                    <dd class="mt-2 mb-5 text-lg text-gray-400">
+
+                        (0945) - 403 - 3852
+
                     </dd>
 
                     <dt class="text-white ">Address</dt>
-                    <dd class="mt-2 text-sm text-gray-400">
-                        <strong>
-                            Taytay, Rizal, Philippines
-                        </strong>
+                    <dd class="mt-2 text-lg text-gray-400">
+
+                        Taytay, Rizal, Philippines
+
                     </dd>
                 </div>
             </dl>

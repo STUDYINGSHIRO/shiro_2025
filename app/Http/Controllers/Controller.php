@@ -13,7 +13,7 @@ class Controller extends BaseController
 
     public function index()
     {
-        $works = Work::all();
+        $works = Work::orderBy('created_at', 'desc')->get();
         return view('welcome', compact('works'));
     }
 }

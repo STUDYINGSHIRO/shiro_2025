@@ -34,7 +34,7 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <h2 class="text-center text-lg/8 font-semibold text-gray-900">Technologies and Frameworks</h2>
         <div
-            class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-7 justify-items-center">
+            class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-4 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-7 justify-items-center">
             <img class="object-contain" src="{{ asset('images/icons8-laravel-100.png') }}" alt="Laravel">
             <img class="object-contain" src="{{ asset('images/icons8-react-96.png') }}" alt="React">
             <img class="object-contain" src="{{ asset('images/icons8-tailwind-css-100.png') }}" alt="Tailwind CSS">
@@ -49,7 +49,7 @@
     <div
         class="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
         <img src="https://i.pinimg.com/736x/89/6a/e8/896ae89a07cda2fc7113102571dd605b.jpg"
-            alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
+            alt="PINTEREST_IMAGE"
             class="rounded-lg bg-gray-100">
         <div>
             <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">About SHIRO</h2>
@@ -81,6 +81,5 @@
                 </div>
             </dl>
         </div>
-
     </div>
 </div>

@@ -1,7 +1,7 @@
 <nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     
-        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SHIRO</span>
+        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"><span class="text-cyan-500">S</span>HIRO</span>
         <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
             <a href="{{ asset('CJ_SAN_JUAN_CV (1).pdf') }}" download
                 class="inline-block rounded-md bg-indigo-500 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">
