@@ -33,7 +33,6 @@
 <div class="bg-white py-12 sm:py-12">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <h2 class="text-center text-lg/8 font-semibold text-gray-900">Technologies and Frameworks</h2>
-        {{-- <h3 class="text-center">I'm here</h3> --}}
         <div
             class="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-4 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-7 justify-items-center">
             <img class="object-contain" src="{{ asset('images/icons8-laravel-100.png') }}" alt="Laravel">
